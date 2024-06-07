@@ -1,0 +1,17 @@
+
+CÁMARA BASE
+
+fondo azul 		546d8e
+camara marco exterior 	aba9a1
+rayita oscura derecha 	91908c
+reflejo derecha 	b5b4b0
+reflejo oscuro botones 	8c8b88
+reflejo claro botones 	bfbeb8
+marco negro 		464646	
+
+PLAYA
+
+cielo 			92bee1
+agua 			505e6c 
+arena orilla            9e9986
+
