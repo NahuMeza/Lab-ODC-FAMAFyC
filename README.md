@@ -1,3 +1,5 @@
+> [!NOTE]
+> Esto es una copia de nuestro repositorio original, el cual esta subido en bitbucket.
 
 ## ODC LAB 2024 
 
